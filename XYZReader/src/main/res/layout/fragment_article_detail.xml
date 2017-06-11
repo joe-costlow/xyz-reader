@@ -82,7 +82,6 @@
         android:contentDescription="@string/action_share"
         android:elevation="@dimen/fab_elevation"
         android:src="@drawable/ic_share"
-        android:stateListAnimator="@animator/fab_state_list_anim"
         app:fabSize="normal"
         app:layout_anchor="@id/detail_app_bar"
         app:layout_anchorGravity="bottom|end"
