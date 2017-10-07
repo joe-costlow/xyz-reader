@@ -1,3 +1,3 @@
-= XYZ Reader Starter Code
+# XYZ Reader
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree. XYZ Reader is a toy app that demostrates the use of a collapsing toolbar and other Material Design features such as a AppCompat theme. The main screen is a grid view displaying mock news stories. Selecting a list item launches a detail screen of that news story. The main feature of the detail screen is the collapsing toolbar.
